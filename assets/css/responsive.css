@@ -1,0 +1,613 @@
+@media only screen and (min-device-width:320px) and (max-device-width:480px) {
+	.modal-info.mail h4 {
+ 	  font-size: 2em;
+	}
+    .arrow-xs,
+    .inline-xs {
+        display: inline
+    }
+    .icon-airsoft {
+        width: 70%
+    }
+    .hero {
+        background: #fff;
+        background-image: none!important
+    }
+    .hero.home:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-image: none;
+        opacity: .8
+    }
+    .hero.home .container h2 {
+        font-size: 2.5em
+    }
+    .hero.home .container h2.c {
+        padding-right: 7%
+    }
+    .hero.home .container h2.d {
+        padding-left: 7%
+    }
+    .hero.home .icon-fb {
+        position: relative;
+        top: -415px;
+        left: 0
+    }
+    .width-xs {
+        width: 100%
+    }
+    .pl-0-xs {
+        padding-left: 0!important
+    }
+    .pr-0-xs {
+        padding-right: 0!important
+    }
+    .position-sm-nerf {
+        position: relative;
+        right: 371px
+    }
+    .position-sm-bazooka {
+        position: relative;
+        bottom: 319px;
+        left: 374px
+    }
+    .hero.home .boton-tienda {
+        text-align: center;
+        position: relative;
+        top: -734px
+    }
+    .hero.home .boton-tienda span {
+        margin-left: 0;
+        margin-right: 0;
+        top: 38%;
+        left: 45%;
+        right: 50%;
+        font-size: 2em
+    }
+    .boton-tienda img {
+        width: 29%
+    }
+    .black-box {
+        height: auto!important
+    }
+    .black-box p {
+        font-size: 2.8em!important
+    }
+    .icon-pb {
+        width: 40%
+    }
+    .info-pb {
+        font-size: 2.4em!important;
+        position: relative;
+        left: 40%;
+        float: none!important
+    }
+    .hero.bazooka form,
+    .hero.nerf form,
+    .hero.pb form {
+        padding: 0
+    }
+    .plr-0-xs {
+        padding-left: 0!important;
+        padding-right: 0!important
+    }
+    .plr-5-xs {
+        padding-left: 5%;
+        padding-right: 5%
+    }
+    .mlr-5-xs {
+        margin-left: 5%!important;
+        margin-right: 1%!important
+    }
+    .required {
+        z-index: 41;
+        position: absolute;
+        margin-left: 5px;
+        margin-top: 3%;
+        color: #fff;
+        font-size: 3em;
+        font-weight: 200
+    }
+    .arrow-xs,
+    .arrow-xs a:focus,
+    a:hover {
+        color: #000
+    }
+    .mtb-xs {
+        margin-top: 3%!important;
+        margin-bottom: 3%!important
+    }
+    .mt-5-xs {
+        padding-top: 5%!important
+    }
+    .mt-10-xs {
+        margin-top: 10%
+    }
+    .mb-10-xs {
+        margin-bottom: 10%
+    }
+    .text-left-xs {
+        text-align: left!important
+    }
+    .width-100-xs {
+        width: 100%
+    }
+    .arrow-xs {
+        font-size: 9em;
+        padding-right: 5%;
+        position: relative;
+        top: 6px;
+        text-decoration: none!important
+    }
+    form input[type=submit] {
+        font-size: 2.8em!important;
+        padding: 4% 14%!important
+    }
+    form input[type=email],
+    form input[type=phone],
+    form input[type=text] {
+        font-size: 2.5em!important;
+        width: 88%!important
+    }
+    .modal-info p {
+        font-size: 2em!important
+    }
+    .modal-info li,
+    .modal-info ol {
+        font-size: 1.5em
+    }
+    .modal-info span {
+        font-size: 2.5em!important;
+        margin-top: 2%;
+        font-weight: 700
+    }
+    .back {
+        font-size: 2em
+    }
+    .modal-info>div {
+        padding: 3% 6% 10.5%
+    }
+    .hero.airsoft h1 {
+        font-size: 8.5em!important
+    }
+    .hero.airsoft .icon-airsoft {
+        margin-left: 3%
+    }
+    .hero.airsoft .subtitle {
+        font-size: 3.8em
+    }
+    .icon-home {
+        margin-top: 5%;
+        margin-bottom: 5%;
+        position: relative;
+        float: right;
+        top: 0!important
+    }
+    .icon-home span {
+        font-size: 2.8em
+    }
+    .icon-home div {
+        top: 45px;
+        right: 61%;
+        height: 45px;
+        width: 55px;
+        background-size: cover
+    }
+    .fz-2-xs {
+        font-size: 2.5em
+    }
+    .fz-3-xs,
+    .modal-info.home h3 {
+        font-size: 3em
+    }
+    .modal-info.home div {
+        width: 65%!important;
+        margin: 45% auto
+    }
+}
+
+@media only screen and (min-device-width:481px) and (max-device-width:990px) {
+	.modal-info.mail h4 {
+  		font-size: 2.5em;
+	}
+    .black-box p,
+    .info-pb {
+        font-size: 1.2em!important
+    }
+    .arrow-xs,
+    .arrow-xs a:focus,
+    a:hover {
+        color: #000
+    }
+    .arrow-xs,
+    .inline-xs {
+        display: inline
+    }
+    .icon-airsoft {
+        width: 60%
+    }
+    .hero {
+        background: #fff;
+        background-image: none!important
+    }
+    .hero.home:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-image: none;
+        opacity: .8
+    }
+    .hero.home .container h2.c {
+        right: 38%
+    }
+    .hero.home .container h2.d {
+        left: 38%
+    }
+    .hero.home .icon-fb {
+        position: relative;
+        top: -155px;
+        left: 0
+    }
+    .hero.home .boton-tienda span {
+        margin-left: 7%;
+        top: 40%
+    }
+    .black-box {
+        height: auto!important
+    }
+    .icon-pb {
+        width: 40%
+    }
+    .info-pb {
+        position: relative;
+        left: 40%;
+        float: none!important
+    }
+    .hero.bazooka form,
+    .hero.nerf form,
+    .hero.pb form {
+        padding: 0
+    }
+    .plr-0-xs {
+        padding-left: 0!important;
+        padding-right: 0!important
+    }
+    .plr-5-xs {
+        padding-left: 5%;
+        padding-right: 5%
+    }
+    .mlr-5-xs {
+        margin-left: 5%!important;
+        margin-right: 1%!important
+    }
+    .mtb-xs {
+        margin-top: 3%!important;
+        margin-bottom: 3%!important
+    }
+    .mt-5-xs {
+        padding-top: 5%!important
+    }
+    .mt-10-xs {
+        margin-top: 10%
+    }
+    .mb-10-xs {
+        margin-bottom: 10%
+    }
+    .text-left-xs {
+        text-align: left!important
+    }
+    .width-100-xs {
+        width: 100%
+    }
+    .arrow-xs {
+        font-size: 9em;
+        padding-right: 5%;
+        position: relative;
+        top: 6px;
+        text-decoration: none!important
+    }
+    .required {
+        z-index: 41;
+        position: absolute;
+        margin-left: 5px;
+        margin-top: 3%;
+        color: #fff;
+        font-size: 2em;
+        font-weight: 200
+    }
+    form input[type=submit] {
+        font-size: 1.2em!important;
+        padding: 4% 14%!important
+    }
+    form input[type=email],
+    form input[type=phone],
+    form input[type=text] {
+        font-size: 1.1em!important;
+        width: 88%!important
+    }
+    .modal-info p {
+        font-size: 1.2em!important
+    }
+    .modal-info li,
+    .modal-info ol {
+        font-size: 1.2em
+    }
+    .modal-info span {
+        font-size: 1.5em!important;
+        margin-top: 2%;
+        font-weight: 700
+    }
+    .back {
+        font-size: 1.2em
+    }
+    .modal-info>div {
+        padding: 3% 6% 10.5%
+    }
+    .hero.airsoft h1 {
+        font-size: 8.5em!important
+    }
+    .hero.airsoft .icon-airsoft {
+        padding-top: 5%;
+        margin-left: 3%
+    }
+    .hero.airsoft .subtitle {
+        font-size: 3.8em
+    }
+    .icon-home {
+        margin-top: 5%;
+        margin-bottom: 5%;
+        position: relative;
+        float: right;
+        top: 0!important
+    }
+    .icon-home span {
+        font-size: 2.8em
+    }
+    .icon-home div {
+        top: 45px;
+        right: 61%;
+        height: 45px;
+        width: 55px;
+        background-size: cover
+    }
+    .fz-2-xs {
+        font-size: 2.5em
+    }
+    .fz-3-xs,
+    .modal-info.home h3 {
+        font-size: 3em
+    }
+    .modal-info.home div {
+        width: 65%!important;
+        margin: 40% auto
+    }
+}
+
+#loader:after,
+#loader:before {
+    content: "";
+    position: absolute
+}
+
+@media only screen and (min-width:990px) and (max-width:1223px) {
+    .hero.home .logo {
+        height: 82px;
+        width: 12%;
+        top: 9%;
+        left: 6%
+    }
+    .hero.home .boton-tienda span {
+        margin-left: 5.5%!important;
+        top: 40%
+    }
+    .icon-fb {
+        left: 11%!important
+    }
+    body p {
+    font-size: 15px;}
+}
+
+@media only screen and (min-width:1224px) {
+    .hero.home .container {
+        padding-top: 10.5%
+    }
+    .hero.home .logo {
+        height: 116px
+    }
+    .hero.home .container h2.c {
+        right: 19%
+    }
+    .hero.home .container h2.d {
+        left: 19%
+    }
+    .icon-fb {
+        top: 27%;
+        left: 9.5%!important
+    }
+}
+
+@media only screen and (min-width:1420px) {
+    .hero.home .container {
+        padding-top: 10.5%
+    }
+    .hero.home .logo {
+        height: 116px
+    }
+    .hero.home .container h2.c {
+        right: 19%
+    }
+    .hero.home .container h2.d {
+        left: 19%
+    }
+    .icon-fb {
+        position: absolute;
+        top: 28%;
+        left: 9%!important
+    }
+    .hero.home {
+        height: 1000px
+    }
+}
+
+@media only screen and (min-width:1824px) {
+    .hero.home {
+        height: 1200px
+    }
+    .hero.home .container {
+        padding-top: 15%
+    }
+    .hero.home .logo {
+        height: 155px
+    }
+    .hero.home .container h2.c {
+        right: 19%
+    }
+    .hero.home .container h2.d {
+        left: 19%
+    }
+    .icon-fb {
+        top: 28%;
+        left: 8.5%
+    }
+}
+
+#loader-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1000
+}
+
+#loader {
+    display: block;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    width: 150px;
+    height: 150px;
+    margin: -75px 0 0 -75px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: #3e7b40;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+    z-index: 1001
+}
+
+#loader:before {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: #4CAF50;
+    -webkit-animation: spin 3s linear infinite;
+    animation: spin 3s linear infinite
+}
+
+#loader:after {
+    top: 15px;
+    left: 15px;
+    right: 15px;
+    bottom: 15px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: #8BC34A;
+    -webkit-animation: spin 1.5s linear infinite;
+    animation: spin 1.5s linear infinite
+}
+
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0);
+        -ms-transform: rotate(0);
+        transform: rotate(0)
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        transform: rotate(360deg)
+    }
+}
+
+@keyframes spin {
+    0% {
+        -webkit-transform: rotate(0);
+        -ms-transform: rotate(0);
+        transform: rotate(0)
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        transform: rotate(360deg)
+    }
+}
+
+#loader-wrapper .loader-section {
+    position: fixed;
+    top: 0;
+    width: 51%;
+    height: 100%;
+    background: #222;
+    z-index: 1000;
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0)
+}
+
+#loader-wrapper .loader-section.section-left {
+    left: 0
+}
+
+#loader-wrapper .loader-section.section-right {
+    right: 0
+}
+
+.loaded #loader-wrapper .loader-section.section-left {
+    -webkit-transform: translateX(-100%);
+    -ms-transform: translateX(-100%);
+    transform: translateX(-100%);
+    -webkit-transition: all .7s .3s cubic-bezier(.645, .045, .355, 1);
+    transition: all .7s .3s cubic-bezier(.645, .045, .355, 1)
+}
+
+.loaded #loader-wrapper .loader-section.section-right {
+    -webkit-transform: translateX(100%);
+    -ms-transform: translateX(100%);
+    transform: translateX(100%);
+    -webkit-transition: all .7s .3s cubic-bezier(.645, .045, .355, 1);
+    transition: all .7s .3s cubic-bezier(.645, .045, .355, 1)
+}
+
+.loaded #loader {
+    opacity: 0;
+    -webkit-transition: all .3s ease-out;
+    transition: all .3s ease-out
+}
+
+.loaded #loader-wrapper {
+    visibility: hidden;
+    -webkit-transform: translateY(-100%);
+    -ms-transform: translateY(-100%);
+    transform: translateY(-100%);
+    -webkit-transition: all .3s 1s ease-out;
+    transition: all .3s 1s ease-out
+}
+
+.no-js #loader-wrapper {
+    display: none
+}
+
+.no-js h1 {
+    color: #222
+}
