@@ -1,6 +1,7 @@
 @media only screen and (min-device-width:320px) and (max-device-width:480px) {
 	.modal-info.mail h4 {
  	  font-size: 2em;
+      font-weight: 600;
 	}
     .arrow-xs,
     .inline-xs {
@@ -141,51 +142,52 @@
         padding-right: 5%;
         position: relative;
         top: 6px;
-        text-decoration: none!important
+        text-decoration: none!important;
     }
     form input[type=submit] {
         font-size: 2.8em!important;
-        padding: 4% 14%!important
+        padding: 4% 14%!important;
     }
     form input[type=email],
     form input[type=phone],
     form input[type=text] {
         font-size: 2.5em!important;
-        width: 88%!important
+        width: 88%!important;
     }
     .modal-info p {
-        font-size: 2em!important
+        font-size: 2em!important;
     }
     .modal-info li,
     .modal-info ol {
-        font-size: 1.5em
+        font-size: 1.5em;
     }
     .modal-info span {
         font-size: 2.5em!important;
         margin-top: 2%;
-        font-weight: 700
+        font-weight: 700;
     }
     .back {
-        font-size: 2em
+        font-size: 2em;
     }
     .modal-info>div {
-        padding: 3% 6% 10.5%
+        padding: 3% 6% 10.5%;
     }
     .hero.airsoft h1 {
-        font-size: 8.5em!important
+        font-size: 8.5em!important;
     }
     .hero.airsoft .icon-airsoft {
-        margin-left: 3%
+        margin-left: 3%;
+        margin-top: 10%;
     }
     .hero.airsoft .subtitle {
-        font-size: 3.8em
+        font-size: 3.8em;
     }
     .icon-home {
         margin-top: 5%;
         margin-bottom: 5%;
         position: relative;
         float: right;
-        top: 0!important
+        top: 0!important;
     }
     .icon-home span {
         font-size: 2.8em

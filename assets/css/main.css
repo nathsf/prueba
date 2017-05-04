@@ -1,4 +1,5 @@
 /*body*/
+a {text-decoration: none!important;}
 body {
   font-family: "san francisco" !important;
   font-weight: 500 !important;
@@ -12,7 +13,7 @@ body p {
   background-size: cover;
   background-repeat: repeat;
   background-position-y: -81px;
-  height: 1030px;
+  height: 1050px;
 }
 .hero .col-sm-12.menu {
   padding-left: 35%;
@@ -100,9 +101,20 @@ body p {
 }
 .hero.home .icon-fb {
   position: absolute;
-  top: 28%;
+  top: 24%;
   left: 8.5%;
 }
+.hero.home .yt {
+  margin-left: 7%;
+}
+.hero.home .icon-yt {
+    position: absolute;
+    top: 200%;
+    left: 9%;
+    text-align: center;
+}
+
+.icon-yt img { width: 37px; }
 .hero.pb {
   background-image: url("../img/bg-paintball.png");
 }
@@ -173,23 +185,54 @@ body p {
   float: right;
   margin-top: 4%;
 }
+.btb {
+  border-top: 5px solid white;
+  border-bottom: 5px solid white;
+}
 .gallery.pb {
-  border-top: 5px solid #fff;
   margin-top: 8%;
-  height: 212px;
-  background-color: #fff;
-  margin-bottom: 95px;
+  height: 295px;
 }
 .gallery.pb .img-btn {
   width: 100%;
-  height: 200px;
+  height: 285px;
   background-repeat: no-repeat;
   background-size: cover;
+  padding: 13%;
+  text-align: center;
+
+}
+.img-btn h2 {
+    font-size: 3.5em;
+    color: white;
+    
+    margin-bottom: 0px;
+}
+.galeria .border {
+  border: 5px solid white;
+}
+.border img {
+  width: 100%;
+} 
+
+.border .bg-default, .border .bg-back {
+  height: 326px;
 }
 
+.bg-default {
+  background-color: #5b7532;
+}
+
+.bg-back {
+  background-color: #1d1d1d;
+  padding: 35%;
+}
+.img-btn p {
+  font-size: 1.8em;
+}
 .hero.airsoft .col-sm-12 {
   text-align: center;
-  padding-top: 6%;
+  padding-top: 4%;
 }
 .hero.airsoft h1 {
   display: inline;
@@ -206,7 +249,7 @@ body p {
   font-weight: 400;
 }
 .hero.airsoft .gallery.airsoft {
-  margin-top: 9%;
+  margin-top: 5%;
   background-color: #fff;
   padding: 1% 0%;
 }
@@ -436,6 +479,8 @@ body p {
 p:first-child {
   margin-top: 0;
 }
+
+
 /* Custom entrance animation */
 .fancybox-slide--complete .modal-container {
   -webkit-animation: slide-down 0.216s;
